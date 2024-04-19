@@ -1,2 +1,2 @@
 hi this is new file
-newtext
+newtext"Changing text" 
