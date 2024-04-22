@@ -1,2 +1,6 @@
 hi this is abc
+<<<<<<< HEAD
 hii this is new line
+=======
+new text
+>>>>>>> 4dd3d737234c02d9e5ab3e203c9c145a423265fb
